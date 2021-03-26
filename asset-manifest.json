@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Calculatron/static/css/main.3e884988.chunk.css",
+    "main.js": "/Calculatron/static/js/main.9062bbdb.chunk.js",
+    "main.js.map": "/Calculatron/static/js/main.9062bbdb.chunk.js.map",
+    "runtime-main.js": "/Calculatron/static/js/runtime-main.3b28ae72.js",
+    "runtime-main.js.map": "/Calculatron/static/js/runtime-main.3b28ae72.js.map",
+    "static/js/2.a373b953.chunk.js": "/Calculatron/static/js/2.a373b953.chunk.js",
+    "static/js/2.a373b953.chunk.js.map": "/Calculatron/static/js/2.a373b953.chunk.js.map",
+    "static/js/3.cb616aae.chunk.js": "/Calculatron/static/js/3.cb616aae.chunk.js",
+    "static/js/3.cb616aae.chunk.js.map": "/Calculatron/static/js/3.cb616aae.chunk.js.map",
+    "index.html": "/Calculatron/index.html",
+    "static/css/main.3e884988.chunk.css.map": "/Calculatron/static/css/main.3e884988.chunk.css.map",
+    "static/js/2.a373b953.chunk.js.LICENSE.txt": "/Calculatron/static/js/2.a373b953.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b28ae72.js",
+    "static/js/2.a373b953.chunk.js",
+    "static/css/main.3e884988.chunk.css",
+    "static/js/main.9062bbdb.chunk.js"
+  ]
+}
